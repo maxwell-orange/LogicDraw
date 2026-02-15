@@ -1,6 +1,6 @@
-# LogicDraw: A Neuro-Symbolic Approach to Visual Programming
+# LogicVibe: A Neuro-Symbolic Approach to Visual Programming
 
-> **LogicDraw: 一种基于模糊草图的神经符号化视觉编程方法**
+> **LogicVibe: 一种基于模糊草图的神经符号化视觉编程方法**
 
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-Neuro--Symbolic-blueviolet) ![Status](https://img.shields.io/badge/Status-Prototype-green) ![Platform](https://img.shields.io/badge/Platform-Full--Stack-orange)
 
@@ -8,11 +8,11 @@
 
 ## 🌟 项目愿景 (Vision)
 
-LogicDraw 旨在构建下一代 **"Neuro-Symbolic Vibe Coding"** 平台。我们超越了传统的 "Prompt Coding"（提示词编程），提出了一种**所画即所得、逻辑可溯源**的全新开发范式。
+LogicVibe 旨在构建下一代 **"Neuro-Symbolic Vibe Coding"** 平台。我们超越了传统的 "Prompt Coding"（提示词编程），提出了一种**所画即所得、逻辑可溯源**的全新开发范式。
 
 目前的 SOTA（State of the Art）生成工具（如 Make Real, v0.dev）主要依赖 **"视觉（像素） -> 大模型 -> 前端代码"** 的端到端映射。这导致了严重的**不可控性**。
 
-**LogicDraw 的核心突破在于：**
+**LogicVibe 的核心突破在于：**
 
 > **"视觉 + 拓扑数据（双模态） -> 神经符号推理 -> 后端逻辑/全栈系统"**
 
@@ -109,11 +109,11 @@ LogicDraw 旨在构建下一代 **"Neuro-Symbolic Vibe Coding"** 平台。我们
 
 ## 🚀 核心工作流 (Workflow)
 
-1.  **Draft (绘图)**：在 LogicDraw 画板上勾勒你的后端逻辑流和前端交互流。
+1.  **Draft (绘图)**：在 LogicVibe 画板上勾勒你的后端逻辑流和前端交互流。
 2.  **Generate (生成)**：AI 引擎分析双流数据（视觉+拓扑），自动构建全栈项目结构。
 3.  **Run (运行)**：一键启动应用，见证你的设想落地。
 4.  **Evolve (演进)**：利用可视化运行时反馈，直接在图上 Debug 和迭代。
 
 ---
 
-> _LogicDraw —— 让编程回归逻辑，让 AI 成为真正的执行者，而非猜测者。_
+> _LogicVibe —— 让编程回归逻辑，让 AI 成为真正的执行者，而非猜测者。_
